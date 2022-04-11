@@ -52,7 +52,7 @@ class Podcrafter:
         fg.title('podcrafter')
         fg.author( {'name':'podcrafter','email':'https://github.com/JosephSamela/podcrafter'} )
         fg.link( href='https://github.com/JosephSamela/podcrafter', rel='alternate' )
-        fg.logo('http://ex.com/logo.jpg')
+        fg.logo('https://github.com/JosephSamela/podcrafter/blob/main/thumbnail.jpg')
         fg.subtitle('Custom podcast feed of your favorite youtube shows!')
         fg.language('en')
 
